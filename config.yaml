@@ -1,4 +1,4 @@
-baseURL: https://zelesny.github.io
+baseURL: https://williamzelesny.github.io
 
 languageCode: en-us
 title: "William Zelesny"
@@ -61,7 +61,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/williamzelesny/zelesny.github.io
+  gitRepo: https://github.com/williamzelesny/williamzelesny.github.io
   # Default branch of your Git repo
   gitBranch: main
 

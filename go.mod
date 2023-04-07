@@ -1,4 +1,4 @@
-module github.com/williamzelesny/zelesny.github.io
+module github.com/williamzelesny/williamzelesny.github.io
 
 go 1.19
 
