@@ -8,49 +8,49 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: VP, Software Engineering
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: JPMorgan Chase
+  url: "https://www.jpmorganchase.com/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate software engineer with 16 years of working experience. I have built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "william@zelesny.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/williamzelesny"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://stackoverflow.com/users/7959447/ampd?tab=profile"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/wzelesny/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/williamzelesny"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/william.zelesny"
 
 - name: Mastadon
   icon: "fab fa-mastodon"
-  url: "#"
+  url: "https://mastodon.social/@williamzelesny"
   rel: "me noopener"
 
 # You can put custom buttons to link your relevant resources.
